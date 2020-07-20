@@ -15,6 +15,7 @@
 		18D8BAD824C564C3005185B9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18D8BAD624C564C3005185B9 /* LaunchScreen.storyboard */; };
 		18D8BAE324C564C3005185B9 /* WordScramble5Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18D8BAE224C564C3005185B9 /* WordScramble5Tests.swift */; };
 		18D8BAEE24C564C3005185B9 /* WordScramble5UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18D8BAED24C564C3005185B9 /* WordScramble5UITests.swift */; };
+		18D8BAFC24C56FC3005185B9 /* words.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 18D8BAFB24C56FC3005185B9 /* words.rtf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		18D8BAE924C564C3005185B9 /* WordScramble5UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WordScramble5UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		18D8BAED24C564C3005185B9 /* WordScramble5UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordScramble5UITests.swift; sourceTree = "<group>"; };
 		18D8BAEF24C564C3005185B9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		18D8BAFB24C56FC3005185B9 /* words.rtf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.rtf; path = words.rtf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				18D8BACF24C564BF005185B9 /* ViewController.swift */,
 				18D8BAD124C564BF005185B9 /* Main.storyboard */,
 				18D8BAD424C564C2005185B9 /* Assets.xcassets */,
+				18D8BAFB24C56FC3005185B9 /* words.rtf */,
 				18D8BAD624C564C3005185B9 /* LaunchScreen.storyboard */,
 				18D8BAD924C564C3005185B9 /* Info.plist */,
 			);
@@ -234,6 +237,7 @@
 			files = (
 				18D8BAD824C564C3005185B9 /* LaunchScreen.storyboard in Resources */,
 				18D8BAD524C564C2005185B9 /* Assets.xcassets in Resources */,
+				18D8BAFC24C56FC3005185B9 /* words.rtf in Resources */,
 				18D8BAD324C564BF005185B9 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
